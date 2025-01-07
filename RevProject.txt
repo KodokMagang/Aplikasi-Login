@@ -1,0 +1,2 @@
+-- Rev Project --
+1. Memperbaiki kesalahan dan Error pada program
