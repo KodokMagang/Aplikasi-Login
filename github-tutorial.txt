@@ -1,0 +1,4 @@
+-- Github Tutorial --
+
+1. Buat Repo
+2. Commits
