@@ -1,4 +1,4 @@
 -- Rev Project -- 
 1. Mempelajari Github
-2. Mempelajari React JS
-3. Mempelajari Laravel
+2. Mempelajari Angular JS
+4. Mempelajari Laravel
